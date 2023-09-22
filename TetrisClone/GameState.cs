@@ -41,7 +41,7 @@ namespace TetrisClone
             return true;
         }
 
-        private void RotateBlockCW()
+        public void RotateBlockCW()
         {
             CurrentBlock.RotateCW();
             if (!BlockFits())

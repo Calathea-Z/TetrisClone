@@ -72,7 +72,7 @@ namespace TetrisClone
         {
             for (int c = 0; c < Columns; c++)
             {
-                grid[r + numRows, c] = 0;
+                grid[r + numRows, c] = grid[r, c];
                 grid[r, c] = 0;
             }
         }  
