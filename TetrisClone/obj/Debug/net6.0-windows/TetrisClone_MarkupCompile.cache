@@ -1,5 +1,5 @@
 ﻿TetrisClone
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\zsyke\source\repos\TetrisClone\TetrisClone\App.xaml
 11407045341
 
-171787011940
+15-372895037
 1941709816142
 MainWindow.xaml;
 
-False
+True
 

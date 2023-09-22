@@ -1,0 +1,5 @@
+C:\Users\zsyke\source\repos\TetrisClone\TetrisClone\obj\Debug\net6.0-windows\TetrisClone.csproj.AssemblyReference.cache
+C:\Users\zsyke\source\repos\TetrisClone\TetrisClone\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\zsyke\source\repos\TetrisClone\TetrisClone\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\zsyke\source\repos\TetrisClone\TetrisClone\obj\Debug\net6.0-windows\TetrisClone_MarkupCompile.cache
+C:\Users\zsyke\source\repos\TetrisClone\TetrisClone\obj\Debug\net6.0-windows\TetrisClone_MarkupCompile.lref
